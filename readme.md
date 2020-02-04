@@ -4,43 +4,49 @@
 
 ### Primeira Etapa
 
-- Entrar no site http://demo.guru99.com/
+- Entrar no site [http://demo.guru99.com/]
 
-- Registrar e-mail no site (raquelteste@teste.com)
+- Inserir e-mail no campo E-mail ID [raquelteste@teste.com]
 
-- Armazenar email no Log
+- Clicar no botao Submit
+
+- Registrar e-mail no Arquivo de Log
+
 
 ### Segunda Etapa
 
 - Capturar os dados para entrada:
 
-User ID :	mngr244183
-Password :	rAmumEq
+		User ID :	mngr244183
+		Password :	rAmumEq
 
-- Armazenar no Arquivo de Log
+- Registrar dados no Arquivo de Log
+
 
 ### Terceira Etapa
 
-- Entrar no site (http://demo.guru99.com/V1/index.php)
+- Entrar no site para login [http://demo.guru99.com/V1/index.php]
 
-- Enviar o id e a senha capturados
+- Inserir o id e a senha capturados nos campos informados
 
-- Buscar o texto Logout e Testar 
+- Clicar no botao de login
 
-- E Armazenar o resultado no log o resultado 
 
 ### Quarta Etapa
 
-- Clicar no LOgout
+- Resgatar mensagem de Logout 
 
-- Voltar a pagina principal
+- Imprimir mensagem retornada
 
-- fechar browser.
+- Registrar mensagem retornada no Arquivo de Log
+
+- Clicar no elemento Logout
+
+- Fechar browser. (Caixa em JavaScript)
+
 
 ### Etapa Teste
 
-- Gravar resosta 
-
 - Validar resposta
 
-- Imprimir resultado da validação 
+- Registrar resultado da validacao no Log
