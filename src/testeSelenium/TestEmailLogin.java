@@ -49,6 +49,7 @@ public class TestEmailLogin {
 	public void etapas() throws Throwable {
 		
 		logger.info("Etapa 1 - Fazer Cadastro no Site");
+		
 		logger.info("Executando..");
 		
 		Thread.sleep(500);
